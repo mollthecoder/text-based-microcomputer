@@ -1,7 +1,7 @@
 ## text-based microcomputer
 This is my microcomputer. It features:
 - Programmable apps:
->Supports python3
+Supports python3
 Supports node.js
 - Temp folder 
 - Partial and full boot mode
