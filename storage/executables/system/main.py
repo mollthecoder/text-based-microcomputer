@@ -1,1 +1,0 @@
-print("SYSTEM RESERVED APP.")

@@ -19,8 +19,4 @@ async function execute_python(code){
       });
   });
 }
-async function execute_command(command, parameters){
-  let ls = spawn(command, parameters);
-  ls.stdout.on()
-}
 module.exports = {execute_python};

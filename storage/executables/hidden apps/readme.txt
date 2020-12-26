@@ -1,0 +1,1 @@
+This folder is required for the hidden apps app to work properly. Do not remove this file.
